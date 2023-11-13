@@ -1,5 +1,5 @@
 # graduation-project
-### Initial design 
+### Initial design android 
 App Purpose: At the top of the screen, display the title "AI Voice Detector".
 
 Percentage Circle: In the center of the screen, there is a circular progress bar to display the percentage of sound detection progress. Initially, it is set to 0% or an empty circuit. The circle can be gradually filled in as the detection process progresses.
